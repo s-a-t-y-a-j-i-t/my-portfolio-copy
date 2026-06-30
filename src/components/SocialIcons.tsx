@@ -1,8 +1,8 @@
 import {
-  FaGithub,
-  FaInstagram,
+  FaEnvelope,
+  FaGlobe,
   FaLinkedinIn,
-  FaXTwitter,
+  FaPhone,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -60,28 +60,34 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/rajeshchityal" target="_blank">
-            <FaGithub />
+          <a href="mailto:satyajitpatri05@gmail.com" target="_blank">
+            <FaEnvelope />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/rajeshchityal" target="_blank">
+          <a href="tel:+917205076958" target="_blank">
+            <FaPhone />
+          </a>
+        </span>
+        <span>
+          <a href="https://satyajitpatri.netlify.app/" target="_blank">
+            <FaGlobe />
+          </a>
+        </span>
+        <span>
+          <a
+            href="https://www.linkedin.com/in/satyajitpatri"
+            target="_blank"
+          >
             <FaLinkedinIn />
           </a>
         </span>
-        <span>
-          <a href="https://x.com/rajeshchityal" target="_blank">
-            <FaXTwitter />
-          </a>
-        </span>
-        <span>
-          <a href="https://www.instagram.com/rajeshchityal" target="_blank">
-            <FaInstagram />
-          </a>
-        </span>
       </div>
-      <a className="resume-button" href="#">
-        <HoverLinks text="RESUME" />
+      <a
+        className="resume-button"
+        href="mailto:satyajitpatri05@gmail.com"
+      >
+        <HoverLinks text="CONTACT" />
         <span>
           <TbNotes />
         </span>

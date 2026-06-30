@@ -87,22 +87,23 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>PHARMA IT</h3>
+              <h4>Compliance & Validation</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Supporting regulated pharmaceutical environments with CSV lifecycle
+                documentation, EU-GMP compliance, audit trails, and secure data
+                management for manufacturing units.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">CSV Lifecycle</div>
+                <div className="what-tags">URS / FS / DS</div>
+                <div className="what-tags">IQ / OQ / PQ</div>
+                <div className="what-tags">EU-GMP</div>
+                <div className="what-tags">Audit Trails</div>
+                <div className="what-tags">Data Backup</div>
+                <div className="what-tags">ERP Config</div>
+                <div className="what-tags">IT SOPs</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +127,23 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>NETWORK & IT</h3>
+              <h4>Infrastructure & Security</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Designing and maintaining secure enterprise networks with firewall
+                policies, VPN routing, server maintenance, and ServiceNow
+                administration for IT operations.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Fortinet</div>
+                <div className="what-tags">Sophos</div>
+                <div className="what-tags">VPN / NAT</div>
+                <div className="what-tags">LAN / WAN</div>
+                <div className="what-tags">ServiceNow</div>
+                <div className="what-tags">CMDB</div>
+                <div className="what-tags">Zoho CRM</div>
+                <div className="what-tags">Server Admin</div>
               </div>
               <div className="what-arrow"></div>
             </div>

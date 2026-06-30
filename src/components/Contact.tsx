@@ -10,54 +10,57 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:satyajitpatri05@gmail.com" data-cursor="disable">
+                satyajitpatri05@gmail.com
+              </a>
+            </p>
+            <h4>Phone</h4>
+            <p>
+              <a href="tel:+917205076958" data-cursor="disable">
+                +91 7205076958
               </a>
             </p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>
+              B.Tech – Computer Science & Engineering
+              <br />
+              BPUT, Odisha (2018 – 2022) · CGPA: 7.3/10
+            </p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
+            <h4>Connect</h4>
             <a
-              href="https://github.com/raxx21"
+              href="https://satyajitpatri.netlify.app/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              Portfolio <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
-              target="_blank"
+              href="mailto:satyajitpatri05@gmail.com"
               data-cursor="disable"
               className="contact-social"
             >
-              Linkedin <MdArrowOutward />
+              Email <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/raxx21_official"
-              target="_blank"
+              href="tel:+917205076958"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              Phone <MdArrowOutward />
             </a>
-            <a
-              href="https://www.instagram.com/therajeshchityal"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
-            </a>
+            <h4 style={{ marginTop: "24px" }}>Certifications</h4>
+            <p>HTML, CSS, JavaScript – J Spider (2024)</p>
+            <p>Java & MySQL – J Spider (2024)</p>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> by <span>Satyajit Patri</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>

@@ -3,7 +3,7 @@
   width: 100vw;
   height: var(--vh);
   /* background-image: linear-gradient(#cbb1ff, #d8c4ff); */
-  background-color: #e0f2f1;
+  background-color: #f5f0e6;
   z-index: 999999999;
   display: flex;
   place-items: center;
@@ -217,6 +217,14 @@
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 0.2px;
+  display: flex;
+  align-items: center;
+}
+
+.loader-logo {
+  height: 36px;
+  width: auto;
+  object-fit: contain;
 }
 
 @keyframes blink {

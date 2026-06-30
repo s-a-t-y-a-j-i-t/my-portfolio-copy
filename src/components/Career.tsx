@@ -15,43 +15,45 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
-              </div>
-              <h3>2020</h3>
-            </div>
-            <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
-              </div>
-              <h3>2021</h3>
-            </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>IT Hardware & Software Engineer</h4>
+                <h5>Angia Rx Life Science Pvt. Ltd., Roorkee</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Supporting IT infrastructure for pharmaceutical manufacturing unit.
+              Assisting in CSV documentation (URS, FS, DS, IQ, OQ, PQ), managing
+              secure data backup & archival systems, ERP and plant software
+              configuration, user access control, audit trail monitoring, and IT
+              SOP preparation for regulated environment.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>IT Hardware & Software Engineer</h4>
+                <h5>Pritam International Pvt. Ltd.</h5>
+              </div>
+              <h3>2024</h3>
+            </div>
+            <p>
+              Hardware troubleshooting & network setup, ERP support & system
+              configuration, server maintenance & backup monitoring, IT support for
+              operations, and camera system setup.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Hardware & Software Engineer</h4>
+                <h5>Dravinlabs Pvt. Ltd., Bangalore</h5>
+              </div>
+              <h3>2022</h3>
+            </div>
+            <p>
+              LAN/WAN setup & IP configuration, router & firewall configuration,
+              system troubleshooting & maintenance, and software installation &
+              support across enterprise environments.
             </p>
           </div>
         </div>
